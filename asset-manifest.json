@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Task/static/css/main.8d837dca.chunk.css",
+    "main.js": "/ReactJS_Task/static/js/main.c2032d02.chunk.js",
+    "main.js.map": "/ReactJS_Task/static/js/main.c2032d02.chunk.js.map",
+    "runtime-main.js": "/ReactJS_Task/static/js/runtime-main.74e5fd15.js",
+    "runtime-main.js.map": "/ReactJS_Task/static/js/runtime-main.74e5fd15.js.map",
+    "static/js/2.761dda63.chunk.js": "/ReactJS_Task/static/js/2.761dda63.chunk.js",
+    "static/js/2.761dda63.chunk.js.map": "/ReactJS_Task/static/js/2.761dda63.chunk.js.map",
+    "index.html": "/ReactJS_Task/index.html",
+    "static/css/main.8d837dca.chunk.css.map": "/ReactJS_Task/static/css/main.8d837dca.chunk.css.map",
+    "static/js/2.761dda63.chunk.js.LICENSE.txt": "/ReactJS_Task/static/js/2.761dda63.chunk.js.LICENSE.txt",
+    "static/media/poster1.jpg": "/ReactJS_Task/static/media/poster1.d966e333.jpg",
+    "static/media/poster2.jpg": "/ReactJS_Task/static/media/poster2.bf23bfae.jpg",
+    "static/media/poster3.jpg": "/ReactJS_Task/static/media/poster3.7ee7b802.jpg",
+    "static/media/poster4.jpg": "/ReactJS_Task/static/media/poster4.a2f1de9b.jpg",
+    "static/media/poster5.jpg": "/ReactJS_Task/static/media/poster5.d0a9cf21.jpg",
+    "static/media/poster6.jpg": "/ReactJS_Task/static/media/poster6.57e30e48.jpg",
+    "static/media/poster7.jpg": "/ReactJS_Task/static/media/poster7.8f23c2d5.jpg",
+    "static/media/poster8.jpg": "/ReactJS_Task/static/media/poster8.61013e43.jpg",
+    "static/media/poster9.jpg": "/ReactJS_Task/static/media/poster9.080f3385.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e5fd15.js",
+    "static/js/2.761dda63.chunk.js",
+    "static/css/main.8d837dca.chunk.css",
+    "static/js/main.c2032d02.chunk.js"
+  ]
+}
