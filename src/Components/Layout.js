@@ -32,7 +32,8 @@ class Layout extends PureComponent {
     invisibleTrigger = () => {
         this.setState({
             visible: "invisible",
-            searchStyle: "invisible"
+            searchStyle: "invisible",
+            searchTerm:''
         })
     }
 
